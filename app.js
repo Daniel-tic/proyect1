@@ -17,6 +17,7 @@ while( numeroUsuario != numeroSecreto){
     //console.log('comparacion, ', numeroSecreto == numeroUsuario);
     // operador ternario
     //prueba de subida
+    //prueba de subida 2
 
     if (numeroUsuario == numeroSecreto){
         alert(`Acertaste el numero, el numero es: ${numeroUsuario}. Lo hiciste en ${intentos} ${intentos == 1 ?'vez':'veces'}`);
